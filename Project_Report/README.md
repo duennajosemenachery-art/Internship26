@@ -27,13 +27,12 @@ The synthesis reports indicate that the design is synthesizable and suitable for
 The final routed design demonstrates proper connectivity and successful implementation of the Digital Energy Meter.
 (Insert your Simulation, Synthesis, Floorplan, Placement, CTS and Routing screenshots here.)
 # TEAM MEMBER CONTRIBUTIONS
-Team Member
-Contribution
-Vivekanand P
+# Team Member Contribution
+# Vivekanand P
 Designed the Verilog RTL, developed the FSM architecture, and verified functionality using simulation.
-Fariz K Muhammed
+# Fariz K Muhammed
 Performed synthesis, floorplanning, power planning, placement, CTS, routing, and ASIC implementation using Cadence tools.
-Duenna Jose
+# Duenna Jose
 Prepared the block diagrams, documentation, project report, analyzed simulation results, and managed the GitHub repository.
 # CONCLUSION
 The Digital Energy Meter was successfully implemented using Verilog HDL and Cadence EDA tools. The FSM-based architecture accurately calculated power, computed energy, and accumulated the total energy over multiple clock cycles. Functional verification through simulation confirmed the correctness of the design, while synthesis and physical implementation demonstrated its suitability for ASIC realization. This project provided practical experience in RTL design, verification, and the complete ASIC implementation flow.
